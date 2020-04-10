@@ -1,0 +1,204 @@
+/* Overall */
+a {}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Oxanium', cursive;
+  color: white;
+}
+
+h2 {
+  color: #8ac6d1;
+}
+
+h2:hover {
+  color: #1EB2A6;
+}
+
+p {
+  color: grey;
+  font-family: 'Bellota Text', cursive;
+}
+
+/* title */
+#big-heading {
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 2% 15%;
+  color: white;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+#title {
+  background-color: #8ac6d1;
+}
+
+/* Homepage*/
+.carouselExampleFade {
+  padding-top: 200px;
+}
+
+.small-heading {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.findOutMore {
+  text-align: center;
+}
+
+/* Features*/
+#features {
+  padding: 7% 15% 2%;
+}
+
+.icon {
+  color: #8ac6d1;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #1EB2A6;
+}
+
+.feature-box {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+/* Who are we */
+#whoarewe {
+  text-align: center;
+  background-color: #8ac6d1;
+  margin: 100px 0 50px;
+  ;
+  line-height: 1;
+  padding-bottom: 50px;
+}
+
+#click {
+  padding: 20px 0 0;
+}
+
+.skillrow {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.tayami {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.pat {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  float: right;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+
+/* What we do */
+#what-we-do {
+  padding: 0 76px;
+  background-color: white;
+}
+
+.pricingColumn {
+  padding: 3% 5%;
+}
+
+#secondclick {
+  margin: 0;
+  padding: 0;
+  background-color: #8ac6d1;
+}
+
+#pricingCenter {
+  text-align: center;
+  line-height: 1;
+  padding-top: 0;
+  padding-bottom: 25px;
+}
+
+/* testimonial section */
+#testimonials {
+  text-align: center;
+  background-color: #8ac6d1;
+  color: white;
+}
+
+.weightloss {
+  width: 400px;
+  height: 350px;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+.resultstab {
+  font-family: "Montserrat-Bold";
+  font-size: 2rem;
+  line-height: 1.5;
+  padding: 0 90px;
+  text-align: justify;
+}
+
+#thirdclick {
+  padding: 0 200px;
+}
+
+.carousel-item {
+  padding: 3% 13%;
+}
+
+/* sponsor */
+#press {
+  background-color: #8ac6d1;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.press-logo {
+  width: 125px;
+  height: 75px;
+  margin: 0 50px 50px;
+}
+
+/* get to know us */
+#downloadDistance {
+  margin: 5px;
+}
+
+#theEnd {
+  background-color: white;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.theEndHead {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* footer */
+#footer {
+  background-color: #8ac6d1;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
